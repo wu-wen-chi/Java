@@ -51,4 +51,4 @@ if __name__=='__main__':
             exit()
         else:
             answer=x_stack(x)
-            print(get_x(answer))
+            print('計算結果：',get_x(answer))
